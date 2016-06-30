@@ -1,6 +1,6 @@
 import struct
 
-import lzma
+import pylzma
 
 LZMA_BEST_LC = 0
 LZMA_BEST_LP = 0
