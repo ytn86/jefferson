@@ -15,7 +15,7 @@ Dependencies
 
 ```bash
 $ sudo pip install cstruct
-$ sudo apt-get install pylzma
+$ sudo pip install pylzma
 ```
 
 Features
